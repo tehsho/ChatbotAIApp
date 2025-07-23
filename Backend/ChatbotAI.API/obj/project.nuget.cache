@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "caSdwqro1uU=",
   "success": true,
   "projectFilePath": "C:\\Development\\CoginovTest\\ChatbotAI\\Backend\\ChatbotAI.API\\ChatbotAI.API.csproj",
+=======
+  "dgSpecHash": "6euJL43mTRw=",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\ChatbotAI.API.csproj",
+>>>>>>> 055a125808045888386187a3bce6448e7f0ee8d3
   "expectedPackageFiles": [
     "C:\\Users\\elupa\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\elupa\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

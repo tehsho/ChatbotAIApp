@@ -3265,11 +3265,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Development\\CoginovTest\\ChatbotAI\\Backend\\ChatbotAI.API\\ChatbotAI.API.csproj",
       "projectName": "ChatbotAI.API",
       "projectPath": "C:\\Development\\CoginovTest\\ChatbotAI\\Backend\\ChatbotAI.API\\ChatbotAI.API.csproj",
       "packagesPath": "C:\\Users\\elupa\\.nuget\\packages\\",
       "outputPath": "C:\\Development\\CoginovTest\\ChatbotAI\\Backend\\ChatbotAI.API\\obj\\",
+=======
+      "projectUniqueName": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\ChatbotAI.API.csproj",
+      "projectName": "ChatbotAI.API",
+      "projectPath": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\ChatbotAI.API.csproj",
+      "packagesPath": "C:\\Users\\elupa\\.nuget\\packages\\",
+      "outputPath": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\obj\\",
+>>>>>>> 055a125808045888386187a3bce6448e7f0ee8d3
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
