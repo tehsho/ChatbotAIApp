@@ -1,6 +1,6 @@
 // README.md
 /*
-# ChatbotAI – Project Summary
+# ChatbotAI â€“ Project Summary
 
 ## Description
 This project is a simple AI chatbot web application. It allows users to log in, send questions, and receive AI responses. 
@@ -21,7 +21,7 @@ All conversations are saved and shown back to users when they return.
 - Both are displayed in the chat interface
 
 ## Tech Stack
-Backend – ASP.NET Core 8
+Backend â€“ ASP.NET Core 8
 
 - C# Web API
 - Entity Framework Core
@@ -29,7 +29,7 @@ Backend – ASP.NET Core 8
 - Follows SOLID principles
 - Repository pattern used
 	
-Frontend – React + TypeScript
+Frontend â€“ React + TypeScript
 
 - CSS for layout and basic styling
 - Axios for HTTP calls
@@ -71,37 +71,22 @@ GO
 ## How to Run
 Backend (ASP.NET Core)
 
-cd ChatbotAI\Backend
-dotnet restore
-dotnet ef database update
-dotnet run
+- cd ChatbotAI\Backend
+- dotnet restore
+- dotnet ef database update
+- dotnet run
 
 Frontend (React)
 
-cd ChatbotAI\Frontend
-npm install
-npm start
+- cd ChatbotAI\Frontend
+- npm install
+- npm start
+
 The frontend will start on http://localhost:3000 and connect to the backend API.
 
 ## Folder Structure
 
-ChatbotAI
-¦
-+-- Backend
-¦   +-- Controllers
-¦   +-- DTOs
-¦   +-- Models
-¦   +-- Repositories
-¦   +-- Services
-¦   +-- Data (DbContext)
-¦
-+-- Frontend
-    +-- api
-    +-- components
-    +-- pages
-    +-- services
-    +-- types
-    +-- App.tsx
+
 ## Notes
 - Passwords are stored as is (mock).
 - Login is basic and meant for learning or demo purposes.
