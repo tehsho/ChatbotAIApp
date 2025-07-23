@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\dtos\\chatresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\dtos\\chatresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\dtos\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\dtos\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\services\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\services\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|c:\\development\\coginov\\chatbotai\\backend\\chatbotai.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D581A-9D6A-445D-8299-5D2F1B0A2830}|ChatbotAI.API\\ChatbotAI.API.csproj|solutionrelative:chatbotai.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ChatbotAI.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T20:33:37.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Repositories\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\Repositories\\MessageRepository.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Repositories\\MessageRepository.cs",
+              "RelativeToolTip": "ChatbotAI.API\\Repositories\\MessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:27:42.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Repositories\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\Repositories\\IMessageRepository.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Repositories\\IMessageRepository.cs",
+              "RelativeToolTip": "ChatbotAI.API\\Repositories\\IMessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:27:15.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "ChatbotAI.API\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T04:10:09.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ChatbotAI.API\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:18:54.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\README.md",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\README.md",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\README.md",
+              "RelativeToolTip": "ChatbotAI.API\\README.md",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-21T23:06:53.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\Services\\ChatService.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Services\\ChatService.cs",
+              "RelativeToolTip": "ChatbotAI.API\\Services\\ChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T22:56:42.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\appsettings.json",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\appsettings.json",
+              "RelativeToolTip": "ChatbotAI.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T20:32:55.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\Models\\Message.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Models\\Message.cs",
+              "RelativeToolTip": "ChatbotAI.API\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:09:49.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ChatbotAI.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T22:59:07.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "ChatbotAI.API\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T22:59:55.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Program.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\Program.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Program.cs",
+              "RelativeToolTip": "ChatbotAI.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T22:53:55.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "ChatbotAI.API\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:28:52.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "ChatbotAI.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T22:55:20.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatResponseDto.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\DTOs\\ChatResponseDto.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\DTOs\\ChatResponseDto.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\DTOs\\ChatResponseDto.cs",
+              "RelativeToolTip": "ChatbotAI.API\\DTOs\\ChatResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:29:41.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthResultDto.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\DTOs\\AuthResultDto.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\DTOs\\AuthResultDto.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\DTOs\\AuthResultDto.cs",
+              "RelativeToolTip": "ChatbotAI.API\\DTOs\\AuthResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:31:12.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\DTOs\\MessageDto.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\DTOs\\MessageDto.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\DTOs\\MessageDto.cs",
+              "RelativeToolTip": "ChatbotAI.API\\DTOs\\MessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:29:14.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Services\\IChatService.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\Services\\IChatService.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Services\\IChatService.cs",
+              "RelativeToolTip": "ChatbotAI.API\\Services\\IChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T22:56:02.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Services\\IAuthService.cs",
+              "RelativeToolTip": "ChatbotAI.API\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T22:54:51.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\Models\\User.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Models\\User.cs",
+              "RelativeToolTip": "ChatbotAI.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:09:21.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ChatbotAI.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Development\\Coginov\\ChatbotAI\\Backend\\ChatbotAI.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ChatbotAI.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:13:03.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

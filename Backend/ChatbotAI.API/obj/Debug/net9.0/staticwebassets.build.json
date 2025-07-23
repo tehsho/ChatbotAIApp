@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GkQ23qzsjgWSVHwQvWzup6m5hXU+0AdSg7EZ0G3HHMA=",
+  "Source": "ChatbotAI.API",
+  "BasePath": "_content/ChatbotAI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
