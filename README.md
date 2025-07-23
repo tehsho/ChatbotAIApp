@@ -85,6 +85,7 @@ Frontend (React)
 The frontend will start on http://localhost:3000 and connect to the backend API.
 
 ## Folder Structure
+<img width="295" height="433" alt="image" src="https://github.com/user-attachments/assets/85b30fdb-392c-418b-8ed7-8e245a24a577" />
 
 
 ## Notes
